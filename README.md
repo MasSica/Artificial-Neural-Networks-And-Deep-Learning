@@ -8,4 +8,4 @@ The first folder contains a neural network design for image classification aimed
 
 The second contains an algorithm developed in the context of an EU sposored competition 🇪🇺 for the segmentation images related to the world of precision agricoluture using autonomous robots 🤖.
 
-For our solution we explored different models like ResNe, Xception, VGG etc.. you will be able to find the code for each of them here!
+For our solution we explored different models like ResNet, Xception, VGG etc.. you will be able to find the code for each of them here!
